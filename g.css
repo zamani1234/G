@@ -1,0 +1,50 @@
+.container{
+	background-color:red;
+	width:600px;
+	height:30vh;
+	margin:0 auto;
+	line-height:30vh;
+	text-align:center;
+	max-width:1200px;
+	
+}
+
+
+/* 
+
+-	Media Queries
+	
+	
+	
+	
+	
+*/
+
+
+
+
+@media only screen (max-width:500px){
+	.container;{
+		background-color:green;
+	}
+	
+	
+}
+
+@media only screen (max-width:920px){
+	.container{
+		max-width:760px;
+		
+	}
+
+}
+
+
+	
+	
+	
+
+
+
+
+
